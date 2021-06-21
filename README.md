@@ -6,7 +6,7 @@
 # install dependencies
 yarn install
 
-# serve in dev mode, with hot reload at localhost:8080
+# serve in dev mode
 yarn dev
 ```
 ## Reproduction Steps
